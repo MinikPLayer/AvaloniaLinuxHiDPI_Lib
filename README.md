@@ -5,7 +5,7 @@ Avalonia library for handling High DPI displays on Linux Wayland. Based on an aw
 # Usage
 1) Grab **AvaloniaHiDPI.dll** from the Releases page: https://github.com/MinikPLayer/AvaloniaLinuxHiDPI_Lib/releases/latest
 2) Add reference to **AvaloniaHiDPI.dll** in your project.
-3) In **Program.cs** add "AvaloniaHiDPI.LinuxHiDPI.SetAutoDpiScaling();" to your Main() function before any Avalonia calls.
+3) In **Program.cs** of your project .Desktop project add "AvaloniaHiDPI.LinuxHiDPI.SetAutoDpiScaling();" to your Main() function before any Avalonia calls.
 
 In short change:
 
