@@ -1,3 +1,0 @@
-/home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/bin/Debug/net7.0/publish/AvaloniaHiDPI.dll
-/home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/bin/Debug/net7.0/publish/AvaloniaHiDPI.deps.json
-/home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/bin/Debug/net7.0/publish/AvaloniaHiDPI.pdb

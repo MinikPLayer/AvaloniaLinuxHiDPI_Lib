@@ -1,11 +1,11 @@
+/home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/bin/Debug/net7.0/AvaloniaHiDPI.deps.json
+/home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/bin/Debug/net7.0/AvaloniaHiDPI.dll
+/home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/bin/Debug/net7.0/AvaloniaHiDPI.pdb
 /home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/obj/Debug/net7.0/AvaloniaHiDPI.GeneratedMSBuildEditorConfig.editorconfig
 /home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/obj/Debug/net7.0/AvaloniaHiDPI.AssemblyInfoInputs.cache
 /home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/obj/Debug/net7.0/AvaloniaHiDPI.AssemblyInfo.cs
 /home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/obj/Debug/net7.0/AvaloniaHiDPI.csproj.CoreCompileInputs.cache
 /home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/obj/Debug/net7.0/AvaloniaHiDPI.sourcelink.json
-/home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/bin/Debug/net7.0/AvaloniaHiDPI.deps.json
-/home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/bin/Debug/net7.0/AvaloniaHiDPI.dll
-/home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/bin/Debug/net7.0/AvaloniaHiDPI.pdb
 /home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/obj/Debug/net7.0/AvaloniaHiDPI.dll
 /home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/obj/Debug/net7.0/refint/AvaloniaHiDPI.dll
 /home/minik/repos/repos/AvLinuxHiDPI/AvaloniaHiDPI/obj/Debug/net7.0/AvaloniaHiDPI.pdb
