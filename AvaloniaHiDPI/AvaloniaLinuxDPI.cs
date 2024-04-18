@@ -11,6 +11,9 @@ public static class LinuxHiDPI
 {
     public static void SetAutoDpiScaling()
     {
+        if(!OperatingSystem.IsLinux())
+            return;
+
         var scalingFactors = CalculateScalingFactors();
         var dpiString = "";
         foreach (var (monitorName, scale) in scalingFactors)
